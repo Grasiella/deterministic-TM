@@ -1,0 +1,16 @@
+{
+    "name": "maquinaturing",
+    "version": "1.0.0",
+    "description": "Maquina de Turing",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "start": "node dist/computacao.js",
+      "build": "tsc --build"
+    },
+    "devDependencies": {
+      "tsc": "^2.0.4",
+      "typescript": "^4.7.4"
+    }
+  }
+  
